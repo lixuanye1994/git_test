@@ -43,3 +43,16 @@ $ rm test.txt                   //删除文件
 	1.是确实要从版本库中删除该文件，那就用命令git rm删掉，并且git commit提交删除理由 
 	2.删错了，因为版本库里还有呢，所以可以很轻松地把误删的文件恢复到最新版本
 	 $ git checkout -- test.txt
+----------------#
+
+#----------------
+上传github：
+
+$ git remote add origin https://github.com/lixuanye1994/git_test.git  //上传版本到github库
+$ git push origin master                                              //把本地master分支的最新修改推送至GitHub 
+----------------#
+
+#----------------
+下载github：
+
+$ git clone https://github.com/lixuanye1994/python.git                //下载github库
