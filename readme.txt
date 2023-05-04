@@ -83,8 +83,10 @@ $ rm test.txt                   //删除文件
 
 
 #----------------
-上传github：    //  push 推送
+上传github：    
+本地commit后，使用push提交
 
+//  push 推送 
 $ git remote add origin https://github.com/lixuanye1994/git_test.git       //上传版本到github库
 $ git remote add origin https://github.com/lixuanye1994/git_test.git git_test2   //另存为一个名字
 $ git push -u origin master                                              //把本地master分支的最新修改推送至GitHub  -u 记录了push到远端分支的默认值
