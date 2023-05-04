@@ -1,4 +1,4 @@
-how to use git 
+如何使用 git
 https://www.bilibili.com/video/BV1VK4y1e7zE
 
 初次使用：
