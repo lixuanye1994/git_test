@@ -1,4 +1,4 @@
-how to use git 
+如何使用 git
 https://www.bilibili.com/video/BV1VK4y1e7zE
 
 初次使用：
@@ -100,4 +100,4 @@ $ git clone https://github.com/lixuanye1994/python.git                //下载gi
 
 拉取github:     // pull 拉取
 $ git pull 
-。。。。。。。。。。。。。。。。。。。
+
